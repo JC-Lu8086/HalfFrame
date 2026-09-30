@@ -1,0 +1,59 @@
+{
+  "application": "HalfFrame",
+  "version": "0.2.1",
+  "author": "J.C. Lu",
+  "platform": "Windows x64",
+  "application_license": "MIT",
+  "python_archive": {
+    "file": "python-3.12.10-embed-amd64.zip",
+    "sha256": "4acbed6dd1c744b0376e3b1cf57ce906f9dc9e95e68824584c8099a63025a3c3"
+  },
+  "wheels": [
+    {
+      "file": "imagecodecs-2026.8.16-cp312-abi3-win_amd64.whl",
+      "sha256": "6444a421272665ebd0116b54ad96347b86b4a5e21b59ed184487145cd3937f4b"
+    },
+    {
+      "file": "numpy-2.5.3-cp312-cp312-win_amd64.whl",
+      "sha256": "0a59a421a32580a009e8a1751345bf829631b990dc1794b80514ab722b435def"
+    },
+    {
+      "file": "piexif-1.1.3-py2.py3-none-any.whl",
+      "sha256": "3bc435d171720150b81b15d27e05e54b8abbde7b4242cddd81ef160d283108b6"
+    },
+    {
+      "file": "pillow-12.3.0-cp312-cp312-win_amd64.whl",
+      "sha256": "a2b55dd6b2a4c4b7d87ffa56bdb33fdc5fdb9a462173861a7bc097f17d91cb09"
+    },
+    {
+      "file": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+      "sha256": "c8a29def77032773a30879f7f24415b5395ad08592d147c170824ef4c735dfc1"
+    },
+    {
+      "file": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+      "sha256": "6ab0eba1c904455df621f9a6df3ca2bb896bab8670572d2bc4e37804ae91f19a"
+    },
+    {
+      "file": "tifffile-2026.9.20-py3-none-any.whl",
+      "sha256": "9b913167b8f66a57f2e7c0454486c4c4607196d494797461226166bd0755c0e6"
+    }
+  ],
+  "jpeg_tools": {
+    "jpegtran.exe": "671166b760a6b0e6b9888ce471fcb97c2a245db07512cd75c23ee29148d0acd0",
+    "jpeg62.dll": "6db16a1e3909aa2ddf25854a2e20c896d2703570d24bc83a52eb25940c0654a5"
+  },
+  "checks": [
+    "relative interpreter paths",
+    "all native binaries are AMD64",
+    "all seven runtime dependency wheels included",
+    "original wheel license metadata retained"
+  ],
+  "windows_execution_tested": false,
+  "qt_libraries": [
+    "Qt6Core.dll",
+    "Qt6Gui.dll",
+    "Qt6Svg.dll",
+    "Qt6Widgets.dll"
+  ],
+  "qt_selection": "Unmodified Widgets libraries and required DLLs; unused tools and QML omitted."
+}

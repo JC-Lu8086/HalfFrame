@@ -1,0 +1,233 @@
+[
+  {
+    "file": "runtime/vcruntime140.dll",
+    "sha256": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4",
+    "upstream": [
+      {
+        "archive": "python-3.12.10-embed-amd64.zip",
+        "member": "vcruntime140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/vcruntime140_1.dll",
+    "sha256": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8",
+    "upstream": [
+      {
+        "archive": "python-3.12.10-embed-amd64.zip",
+        "member": "vcruntime140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "app/bin/vcruntime140.dll",
+    "sha256": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4",
+    "upstream": [
+      {
+        "archive": "python-3.12.10-embed-amd64.zip",
+        "member": "vcruntime140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "app/bin/vcruntime140_1.dll",
+    "sha256": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8",
+    "upstream": [
+      {
+        "archive": "python-3.12.10-embed-amd64.zip",
+        "member": "vcruntime140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+    "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde",
+    "upstream": [
+      {
+        "archive": "numpy-2.5.3-cp312-cp312-win_amd64.whl",
+        "member": "numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/vcruntime140.dll",
+    "sha256": "de617641d82eac15595d2e39394163ac33e49bb032cf2c2ea0044ed39d3675e9",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/vcruntime140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/concrt140.dll",
+    "sha256": "b724ef089cb22625e3281da4b6f7513381eef726ea73e4ee8a875d6749e61a24",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/concrt140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/msvcp140_1.dll",
+    "sha256": "7f556f0a0b944df7b64b916b344a070b7e6f6cf342194475594447ca88c07659",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/msvcp140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/msvcp140_2.dll",
+    "sha256": "720091576d0e2669d16e8ad203a1f81a7c0811a6906452964d6e5fcb28a8de4d",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/msvcp140_2.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/msvcp140_codecvt_ids.dll",
+    "sha256": "e5fd27e8f57810eb40196a7ce5bff7bccc01ea4663e0d3af073539c26604cfa9",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/msvcp140_codecvt_ids.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/vcruntime140_1.dll",
+    "sha256": "fa577d54bd10a91e52472da784a619da6cf241af45f0a0c48b27e91fa0fe6104",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/vcruntime140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/vcomp140.dll",
+    "sha256": "2407d7152d585a8ecc701454b2903db3b1abaca31b4288ae4fbf905f06d5a0f1",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/vcomp140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/shiboken6/msvcp140.dll",
+    "sha256": "fd4a8c046fa3fea9ca6132f50cf8a56cf1e783b2d3093ba5c85fa063bc6b3845",
+    "upstream": [
+      {
+        "archive": "shiboken6-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "shiboken6/msvcp140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/vcruntime140.dll",
+    "sha256": "f893ae75a1a24eea174d982f94bc80ce2448201eaa919a73c0653a5657685de4",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/vcruntime140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/concrt140.dll",
+    "sha256": "0cc696d9a39a39862c31b0b2a12187efd6203a24960dc69726d1c231e3d14293",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/concrt140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/msvcp140_1.dll",
+    "sha256": "d419d24b0a76366f5c9d908b0e45fe70e9e9154bb8ad5f3de42070f2337f857b",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/msvcp140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/msvcp140_2.dll",
+    "sha256": "89917964abb6ca16a260cab258e180c3abc239b5af00eed659d0edf0efdd339c",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/msvcp140_2.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/msvcp140_codecvt_ids.dll",
+    "sha256": "8294cb4ab550197b13994113b743f4cd40242ab4e7c0712723f973ca0324bc56",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/msvcp140_codecvt_ids.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/vcruntime140_1.dll",
+    "sha256": "48aa2783793ea18ab3c2c71d420d4fff9814e662a1ff810053c6e5250061a716",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/vcruntime140_1.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/vcomp140.dll",
+    "sha256": "e20ec339b69a7a4bc9b80ad14c0a0000f01eb7683d1262fea2adff9a2dc5d9e6",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/vcomp140.dll"
+      }
+    ],
+    "modified": false
+  },
+  {
+    "file": "runtime/Lib/site-packages/PySide6/msvcp140.dll",
+    "sha256": "4c667b706893593812cd111b369ba6a77f54d1f1b1ae87cf3bf37692663cfba2",
+    "upstream": [
+      {
+        "archive": "pyside6_essentials-6.11.2-cp310-abi3-win_amd64.whl",
+        "member": "PySide6/msvcp140.dll"
+      }
+    ],
+    "modified": false
+  }
+]

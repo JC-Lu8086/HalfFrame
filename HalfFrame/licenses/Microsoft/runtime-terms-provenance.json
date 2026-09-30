@@ -1,0 +1,27 @@
+{
+  "source_url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+  "retrieved": "2026-09-30",
+  "installer_sha256": "cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b",
+  "installer_executed": false,
+  "terms": [
+    {
+      "file": "VC-Runtime-en.rtf",
+      "archive_member": "u4",
+      "original_name": "license.rtf",
+      "sha256": "8099dc3cf9502c335da829e5c755948a12e3e6de490eb492a99deb673d883d8b"
+    },
+    {
+      "file": "VC-Runtime-zh.rtf",
+      "archive_member": "u28",
+      "original_name": "2052/license.rtf",
+      "sha256": "a808b4933ce3b3e0893504dbef43ebf90b8b567f94bd6481b6315ed9141e1b11"
+    }
+  ],
+  "text_copies": "Plain-text conversions of original RTF; original RTF controls.",
+  "publisher_confirmation": {
+    "date": "2026-09-30",
+    "product": "Visual Studio Community",
+    "edition_version": "Not specified by publisher",
+    "basis": "Publisher explicitly confirmed holding and accepting licensing; not independently authenticated."
+  }
+}
